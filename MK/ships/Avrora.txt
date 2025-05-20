@@ -1,0 +1,4 @@
+Name - Avrora
+HP - 25000
+Speed - 19
+Damage - 2700
