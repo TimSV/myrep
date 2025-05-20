@@ -1,0 +1,4 @@
+Name - IS7
+HP - 2500
+Speed - 65
+Damage - 650
